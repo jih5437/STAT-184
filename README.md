@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Name: Jacob Hurley
+## Section: 001
+### GitHub ID: Jih5437 
+#### GitHub Link:  https://jih5437.github.io/STAT-184/
 
 - Bulleted
 - List
